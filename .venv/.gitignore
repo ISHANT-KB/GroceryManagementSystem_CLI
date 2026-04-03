@@ -8,3 +8,4 @@
 
 # Ignore environment files
 .env
+.venv
