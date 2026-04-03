@@ -4,7 +4,7 @@ def connect():
     return psycopg2.connect(
         dbname="grocery_db",
         user="postgres",
-        password="19682007",
+        password="password",
         host="localhost",
         port="5432"
     )
